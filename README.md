@@ -33,3 +33,4 @@
 
 - 🔭 I’m currently working on [Fenrir](https://github.com/jorelius/Fenrir), [LiguidGenerator](https://github.com/jorelius/LiquidGenerator), and [Fermin.Text.Json.Converters](https://github.com/jorelius/Fermin.Text.Json.Converters)
 - 🌱 I’m currently learning React, Blazor, and WASM
+- 👀 See my [Curriculum Vitae](https://www.jorelfermin.com/pages/cv) to get more info.
