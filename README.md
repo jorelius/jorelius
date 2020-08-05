@@ -26,6 +26,10 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Benchmark Testing Services with Fenrir](https://jorelius.github.io/posts/service-testing-with-fenrir/)
+- [Trigger an Action based on a Changing Resource](https://jorelius.github.io/posts/trigger-an-Action-based-on-a-changing-resource/)
+- [Json Http Request format](https://jorelius.github.io/posts/json-http-request-format/)
+- [Listen and it shall Speak](https://jorelius.github.io/posts/listen-and-it-shall-speak/)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="jorelius's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jorelius&show_icons=true&hide_border=true" />
