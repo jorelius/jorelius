@@ -7,8 +7,6 @@
 
 [![GitHub jorelius](https://img.shields.io/github/followers/jorelius?label=follow&style=social)](https://github.com/jorelius)
 
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
@@ -21,6 +19,10 @@
 
 <br />
 <br />
+
+- 🔭 I’m currently working on [Fenrir](https://github.com/jorelius/Fenrir), [LiguidGenerator](https://github.com/jorelius/LiquidGenerator), and [Fermin.Text.Json.Converters](https://github.com/jorelius/Fermin.Text.Json.Converters)
+- 🌱 I’m currently learning React, Blazor, and WASM
+- 👀 See my [Curriculum Vitae](https://www.jorelfermin.com/pages/cv) to get more info.
 
 ---
 
@@ -37,6 +39,3 @@
 [website]: https://jorelfermin.com
 [linkedin]: https://linkedin.com/in/jorel
 
-- 🔭 I’m currently working on [Fenrir](https://github.com/jorelius/Fenrir), [LiguidGenerator](https://github.com/jorelius/LiquidGenerator), and [Fermin.Text.Json.Converters](https://github.com/jorelius/Fermin.Text.Json.Converters)
-- 🌱 I’m currently learning React, Blazor, and WASM
-- 👀 See my [Curriculum Vitae](https://www.jorelfermin.com/pages/cv) to get more info.
