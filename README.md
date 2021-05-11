@@ -4,8 +4,9 @@
 
 [<img align="left" alt="jorelfermin.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="jorel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jorel | Github jorelius" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][github]
 
-[![GitHub jorelius](https://img.shields.io/github/followers/jorelius?label=follow&style=social)](https://github.com/jorelius)
+<br />
 
 ### Languages and Tools:
 
@@ -38,4 +39,5 @@
 
 [website]: https://jorelfermin.com
 [linkedin]: https://linkedin.com/in/jorel
+[github]: https://github.com/jorelius
 
