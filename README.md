@@ -37,7 +37,7 @@
 - [Listen and it shall Speak](https://jorelius.github.io/posts/listen-and-it-shall-speak/)
 <!-- BLOG-POST-LIST:END -->
 
-<img align="left" alt="jorelius's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jorelius&show_icons=true&hide_border=true" />
+<!-- img align="left" alt="jorelius's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jorelius&show_icons=true&hide_border=true" / -->
 
 [website]: https://jorelfermin.com
 [linkedin]: https://linkedin.com/in/jorel
