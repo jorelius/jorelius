@@ -6,7 +6,7 @@ Ex-AWS engineer (OpenSearch Serverless). I build tools for people who run infras
 
 ---
 
-**🧮 Building [Cloud Cost Analyzer](https://dragonfractal.com)** — point it at an AWS account and get back exactly what's wasting money and what to change. 89 optimization rules across compute, storage, databases, networking, and serverless. CLI-first, self-hostable via Docker, free community tier. Written in Rust; run it fully air-gapped and nothing leaves your network.
+**🧮 Building [Cloud Cost Analyzer](https://dragonfractal.com)** — point it at an AWS account and get back exactly what's wasting money and what to change. 89 optimization rules across compute, storage, databases, networking, and serverless. CLI-first, self-hostable via Docker, free community tier. Written in Rust; run it fully air-gapped and nothing leaves your network. Drop cost scans into CI with [cca-scan-action](https://github.com/DragonFractal/cca-scan-action).
 
 **🛠 Consulting via Poststrata** — AWS cost reviews, BGP/VPN migrations, and production network troubleshooting. Recently took a factory VPN from ~92 drops/week to zero, then migrated it static → BGP with ~30-second automatic failover across two ISPs and nine VPCs.
 
